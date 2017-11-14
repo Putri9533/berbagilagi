@@ -1,0 +1,2 @@
+# berbagilagi
+file.js
